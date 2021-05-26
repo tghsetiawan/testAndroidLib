@@ -1,0 +1,4 @@
+include ':mystringlibrary-debug'
+include ':mystringlibrary'
+include ':app'
+rootProject.name = "DemoLib1"
